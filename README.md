@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10/11"><br>
       <strong>Suki-Dubber cho Windows</strong><br>
       <sub>64-bit · Bộ cài đặt EXE</sub><br><br>
-      <a href="https://github.com/suki-app/suki-dubber-doc/releases/download/v1.0.0/SukiDubber_Setup_v1.0.0.exe"><img src="https://img.shields.io/badge/TẢI_BẢN_CÀI-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Tải bản cài Suki-Dubber cho Windows"></a>
+      <a href="https://github.com/suki-app/suki-dubber-doc/releases/download/v1.0.0/Suki-Dubber-Setup-v1.0.0.exe"><img src="https://img.shields.io/badge/TẢI_BẢN_CÀI-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Tải bản cài Suki-Dubber cho Windows"></a>
     </td>
     <td align="center" width="260">
       <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-10B981?style=flat-square&logo=apple&logoColor=white" alt="macOS Apple Silicon"><br>
@@ -88,7 +88,7 @@ Các tính năng cốt lõi:
 
 | Nền tảng | Phiên bản đề xuất | Gói cài đặt |
 |---|---|---|
-| Windows | Windows 10/11 64-bit | `SukiDubber_Setup_v1.0.0.exe` |
+| Windows | Windows 10/11 64-bit | `Suki-Dubber-Setup-v1.0.0.exe` |
 | macOS Apple Silicon | macOS 12 (Monterey) trở lên | `SukiDubber_macOS_v1.0.0_arm64.dmg` |
 | macOS Intel | macOS 12 trở lên | Sắp phát hành |
 
@@ -96,7 +96,7 @@ Các tính năng cốt lõi:
 
 ### Hướng dẫn cài đặt trên Windows
 
-1. Bấm nút **Tải bản cài cho Windows** ở đầu trang để tải `SukiDubber_Setup_v1.0.0.exe`.
+1. Bấm nút **Tải bản cài cho Windows** ở đầu trang để tải `Suki-Dubber-Setup-v1.0.0.exe`.
 2. Mở file cài đặt vừa tải về và tiến hành cài đặt theo hướng dẫn.
 3. Khởi chạy **Suki-Dubber** từ Start Menu hoặc biểu tượng ngoài Desktop.
 4. *Lưu ý:* Nếu Windows SmartScreen hiện thông báo bảo vệ, bấm **More info** → chọn **Run anyway**.

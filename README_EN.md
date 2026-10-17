@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10/11"><br>
       <strong>Suki-Dubber for Windows</strong><br>
       <sub>64-bit · EXE Installer</sub><br><br>
-      <a href="https://github.com/suki-app/suki-dubber-doc/releases/download/v1.0.0/SukiDubber_Setup_v1.0.0.exe"><img src="https://img.shields.io/badge/DOWNLOAD-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Download Suki-Dubber for Windows"></a>
+      <a href="https://github.com/suki-app/suki-dubber-doc/releases/download/v1.0.0/Suki-Dubber-Setup-v1.0.0.exe"><img src="https://img.shields.io/badge/DOWNLOAD-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Download Suki-Dubber for Windows"></a>
     </td>
     <td align="center" width="260">
       <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-10B981?style=flat-square&logo=apple&logoColor=white" alt="macOS Apple Silicon"><br>
@@ -73,13 +73,13 @@ Core Features:
 
 | Platform | Recommended Version | Package |
 |---|---|---|
-| Windows | Windows 10/11 64-bit | `SukiDubber_Setup_v1.0.0.exe` |
+| Windows | Windows 10/11 64-bit | `Suki-Dubber-Setup-v1.0.0.exe` |
 | macOS Apple Silicon | macOS 12 (Monterey) or later | `SukiDubber_macOS_v1.0.0_arm64.dmg` |
 | macOS Intel | macOS 12 or later | Coming Soon |
 
 ### Windows Installation
 
-1. Click **Download for Windows** to get `SukiDubber_Setup_v1.0.0.exe`.
+1. Click **Download for Windows** to get `Suki-Dubber-Setup-v1.0.0.exe`.
 2. Run the installer and follow the on-screen steps.
 3. Launch **Suki-Dubber** from the Start Menu or Desktop shortcut.
 4. *Note:* If Windows SmartScreen prompts a security warning, click **More info** → **Run anyway**.
